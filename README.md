@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:102A56,100:00C9FF&height=250&section=header&text=VISHAL%20YADAV&fontSize=65&fontColor=FFFFFF&fontAlignY=45&animation=twinkling&fontFace=Righteous" width="100%" alt="Vishal Yadav Animated Header"/>
 </p>
 
-<!-- Animated Name -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=45&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&height=80&lines=VISHAL+YADAV" alt="Vishal Yadav"/>
-</p>
-
 <!-- About Me -->
 <h2 align="center">About Me</h2>
 
