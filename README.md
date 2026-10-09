@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:102A56,100:00C9FF&height=250&section=header&text=VISHAL%20YADAV&fontSize=65&fontColor=FFFFFF&fontAlignY=45&animation=twinkling&fontFace=Righteous" width="100%" alt="Vishal Yadav Animated Header"/>
 </p>
 
+<!-- Colorful Animated Typing Subtitle -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=26&duration=2200&pause=700&color=00C9FF&center=true&vCenter=true&width=850&height=60&lines=AI+%26+Machine+Learning+Engineer;Data+Science+Enthusiast;Python+Developer;Aspiring+AI+Engineer;Building+Intelligent+AI+Projects" alt="Animated Career Goals"/>
+</p>
+
 <!-- About Me -->
 <h2 align="center">About Me</h2>
 
