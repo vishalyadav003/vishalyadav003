@@ -1,145 +1,87 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=55&duration=2500&pause=700&color=00C9FF&center=true&vCenter=true&width=800&height=100&lines=VISHAL+YADAV;MACHINE+LEARNING+ENTHUSIAST;ASPIRING+AI+ENGINEER" alt="Vishal Yadav Animated Heading" />
-</h1>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:102A56,100:00C9FF&height=250&section=header&text=VISHAL%20YADAV&fontSize=65&fontColor=FFFFFF&fontAlignY=45&animation=twinkling&fontFace=Righteous" width="100%" alt="Vishal Yadav Animated Header"/>
+</p>
 
-<h3 align="center">🎓 B.Tech CSE Student | Aspiring Machine Learning & AI Engineer</h3>
+<!-- Animated Name -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=45&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&height=80&lines=VISHAL+YADAV" alt="Vishal Yadav"/>
+</p>
+
+<!-- About Me -->
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Learning+Machine+Learning;Exploring+Data+Science;Building+Python+Projects;Growing+Towards+AI+Engineering" alt="Typing Animation" />
+  B.Tech CSE Student | Python Developer | AI & Machine Learning Enthusiast
 </p>
+
+- 🎓 Currently pursuing B.Tech in Computer Science Engineering.
+- 💻 Learning Python, Data Science, Machine Learning and AI.
+- 📊 Exploring data analysis and visualization.
+- 🧠 Interested in building real-world AI/ML projects.
+- 🚀 My goal is to become an AI Engineer and Machine Learning Engineer.
+
+<!-- Skills -->
+<h2 align="center">Tech Stack & Skills</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" alt="Technical Skills"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-102A56?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Machine Learning"/>
+</p>
+
+<!-- Projects -->
+<h2 align="center">Featured Projects</h2>
+
+<h3>1. Mental Health Score — Student Wellness Analytics</h3>
+
+- Machine learning project focused on student wellness analysis.
+- Backend developed using FastAPI.
+- Frontend developed using HTML, CSS and JavaScript.
+- Uses a trained ML model to generate predictions.
+
+<p>
+  <a href="https://github.com/vishalyadav003/mental-Health-Score">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Mental Health Score Project"/>
+  </a>
+</p>
+
+<h3>2. Multiplication Table Generator</h3>
+
+- Interactive application built using Python and Streamlit.
+- Generates multiplication tables based on user input.
+
+<!-- GitHub Stats -->
+<h2 align="center">GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalyadav003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalyadav003&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vishalyadav003&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+</p>
+
+<!-- Connect -->
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/vishalyadav003">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://github.com/vishalyadav003?tab=repositories">
-    <img src="https://img.shields.io/badge/My_Projects-0078D4?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech Computer Science Engineering student, currently in 2nd year.
-- 📍 Uttar Pradesh, India.
-- 🐍 Learning Python and improving my problem-solving skills.
-- 📊 Exploring Data Science with NumPy, Pandas, and Matplotlib.
-- 🤖 Learning Machine Learning and Artificial Intelligence.
-- 💻 Building projects to apply my programming knowledge.
-- 🎯 Goal: Become a Machine Learning Engineer and AI Engineer.
-
----
-
-## 💻 Programming Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="50" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="50" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="50" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="50" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="50" />
-</p>
-
----
-
-## 📊 Data Science & Machine Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="45" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="45" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" height="45" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="45" />
-</p>
-
----
-
-## 🛠️ Frameworks & Developer Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-## 🏆 Featured Projects
-
-### 🧠 Mental Health Score — Student Wellness Analytics
-
-A machine learning project that predicts a mental health score from student-related data through a web application.
-
-- **Backend:** Python, FastAPI
-- **Data Processing:** Pandas
-- **Machine Learning:** Trained ML model
-- **Frontend:** HTML, CSS, JavaScript
-
-🔗 [View Project Repository](https://github.com/vishalyadav003/mental-Health-Score)
-
-### 🔢 Multiplication Table Generator
-
-An interactive Python application that generates multiplication tables based on user input.
-
-- Python
-- Streamlit
-- Loops and arithmetic operations
-
-🔗 [Explore My Repositories](https://github.com/vishalyadav003?tab=repositories)
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalyadav003&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalyadav003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishalyadav003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🎯 Currently Learning
-
-- Python and Data Structures & Algorithms
-- Machine Learning algorithms
-- Data Analysis and Visualization
-- Deep Learning and Generative AI
-- Project deployment and practical applications
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/vishalyadav003">
-    <img src="https://img.shields.io/badge/Follow_Me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
+<!-- Footer -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishalyadav003&style=for-the-badge&color=00C9FF" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>🚀 Learn Every Day • Build With Purpose • Improve Consistently</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:102A56,100:050816&height=100&section=footer" width="100%" alt="Footer"/>
 </p>
